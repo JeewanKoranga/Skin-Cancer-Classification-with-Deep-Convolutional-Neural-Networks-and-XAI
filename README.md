@@ -16,5 +16,7 @@ The proposed Deep CNN model outperforms pre-trained models, achieving a state-of
 
 #### Acknowledgments
 * Authors: Ishwari Singh Rajput, Anuj Kumar, Jeewan Singh Koranga, Megha Papola, Tanuja Bisht, Tanay Pratap Singh
-* Institution: Graphic Era Hill University, Haldwani, Uttarakhand, India
-📜 Read the full research paper for detailed methodology and results.
+* Institution: Graphic Era Hill University, Haldwani, Uttarakhand, India <br>
+
+ 
+ > 📜 Read the full research paper for detailed methodology and results.
