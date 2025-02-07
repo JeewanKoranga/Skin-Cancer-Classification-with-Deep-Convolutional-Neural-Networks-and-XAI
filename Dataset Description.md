@@ -4,4 +4,4 @@ The Skin Cancer MNIST: HAM10000 dataset is a large collection of skin lesion ima
 Each image in the dataset is labeled with its corresponding skin disease type, making it valuable for supervised learning tasks. The dataset includes metadata such as age, gender, and lesion location, further enriching the analysis.
 
 The dataset can be accessed at:
-🔗 Skin Cancer MNIST: HAM10000 on Kaggle
+🔗 [Skin Cancer MNIST: HAM10000 on Kaggle](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000?select=HAM10000_images_part_1)
